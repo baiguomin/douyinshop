@@ -1,1 +1,4 @@
-# douyinshop
+## 抖音爆店码 源码提供
+## 抖音爆店码 抖音 爆店码 探店码 云探店 引流码
+## 纯Java项目 不是割韭菜的那种php代码，支持二次开发，咨询量较大，欲购从速！！！ 只出10份！！！
+![image](https://user-images.githubusercontent.com/11971048/111311686-78383580-8699-11eb-88e8-10e647ee8a09.png)
